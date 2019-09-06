@@ -1,0 +1,9 @@
+C:\Source\github\shepherd324\Shepherd324.Http\Shepherd324.Http\bin\Debug\netcoreapp2.1\Shepherd324.Http.deps.json
+C:\Source\github\shepherd324\Shepherd324.Http\Shepherd324.Http\bin\Debug\netcoreapp2.1\Shepherd324.Http.dll
+C:\Source\github\shepherd324\Shepherd324.Http\Shepherd324.Http\obj\Debug\netcoreapp2.1\Shepherd324.Http.csprojAssemblyReference.cache
+C:\Source\github\shepherd324\Shepherd324.Http\Shepherd324.Http\obj\Debug\netcoreapp2.1\Shepherd324.Http.csproj.CoreCompileInputs.cache
+C:\Source\github\shepherd324\Shepherd324.Http\Shepherd324.Http\obj\Debug\netcoreapp2.1\Shepherd324.Http.AssemblyInfoInputs.cache
+C:\Source\github\shepherd324\Shepherd324.Http\Shepherd324.Http\obj\Debug\netcoreapp2.1\Shepherd324.Http.AssemblyInfo.cs
+C:\Source\github\shepherd324\Shepherd324.Http\Shepherd324.Http\bin\Debug\netcoreapp2.1\Shepherd324.Http.pdb
+C:\Source\github\shepherd324\Shepherd324.Http\Shepherd324.Http\obj\Debug\netcoreapp2.1\Shepherd324.Http.dll
+C:\Source\github\shepherd324\Shepherd324.Http\Shepherd324.Http\obj\Debug\netcoreapp2.1\Shepherd324.Http.pdb
